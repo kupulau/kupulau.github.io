@@ -2,7 +2,7 @@
 tags:
   - "#AI"
   - "#CV"
-related notes: "[[2024-12-07-이미지 생성 모델]]"
+related notes: [[2024-12-07-이미지 생성 모델]]
 title: FCN을 이용한 segmentation
 categories: CV theory
 ---
