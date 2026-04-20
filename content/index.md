@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: kupulau's knowledge base
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+`Hi, I'm interested in astronomy and AI/data science.`
+`Welcome any discussion and comments :D`
