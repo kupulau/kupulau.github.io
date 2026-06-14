@@ -14,8 +14,7 @@ related_notes:
 활성화 함수의 종류에는 sigmoid, tanh, ReLU, Leaky ReLU, ELU function 등이 있는데, sigmoid나 tanh는 마지막 레이어를 제외하고는 사실상 거의 쓰이지 않는다.
 
 ### Sigmoid
-
-<img src = https://velog.velcdn.com/images/kupulau/post/47370e06-622f-4cd9-a0c3-92bb8bf1499c/image.png height="70%" width="70%">
+![[Pasted image 20260615001249.png]]
 
 > $y = \frac{1}{1+e^{-x}}$
 
