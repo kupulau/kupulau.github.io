@@ -177,6 +177,9 @@ G-Eval은 LLM의 창의적 글쓰기 능력(자기소개서 수정, 광고 문�
 
 ### References
 https://arxiv.org/pdf/2303.18223
+
 https://arxiv.org/pdf/2101.00190
+
 https://arxiv.org/pdf/2104.08691
+
 https://arxiv.org/abs/2106.09685
