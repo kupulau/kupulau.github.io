@@ -2,8 +2,7 @@
 title: generative models
 category: deep learning
 tags:
-  - AI
-  - CV
+  - genAI
 url: https://velog.io/@kupulau/generative-models
 created_at: 2024-09-03
 related_notes:
